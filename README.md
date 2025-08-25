@@ -52,9 +52,9 @@ Desde cedo curioso por tecnologia — desmontando jogos e montando servidores �
 
 ### 🚀 Projetos em destaque
 - **Sistema Gestão de cassinos** .  
-  ↳ <a href="https://www.casscontrol.com.br">github.com/Sjuniorr6/tcp-server-test</a>
+  ↳ <a href="https://www.casscontrol.com.br">Cassinod</a>
 - **Portfólio** — site simples com projetos e contatos.  
-  ↳ <a href="https:/www.sjrdev.com.br">github.com/Sjuniorr6/portifolio</a>
+  ↳ <a href="https:/www.sjrdev.com.br">Portifolio</a>
 
 > _Mais repositórios logo abaixo — sugestões e PRs são bem-vindos!_
 

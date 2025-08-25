@@ -54,7 +54,7 @@ Desde cedo curioso por tecnologia — desmontando jogos e montando servidores �
 - **Sistema Gestão de cassinos** .  
   ↳ <a href="https://www.casscontrol.com.br">Cassinod</a>
 - **Portfólio** — site simples com projetos e contatos.  
-  ↳ <a href="https:/www.sjrdev.com.br">Portifolio</a>
+  ↳ <a href="https://sjrdev.com.br/">Portifolio</a>
 
 > _Mais repositórios logo abaixo — sugestões e PRs são bem-vindos!_
 

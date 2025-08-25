@@ -29,7 +29,7 @@ Tive uma oportunidade de desenvolver alguns sistemas internos para a empresa ond
     align="left" 
     alt="HTML"
     title="HTML" 
-    width="30px" 
+    width="40px" 
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" 
 />
@@ -37,7 +37,7 @@ Tive uma oportunidade de desenvolver alguns sistemas internos para a empresa ond
     align="left" 
     alt="CSS" 
     title="CSS"
-    width="30px" 
+    width="40px" 
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" 
 />
@@ -45,7 +45,7 @@ Tive uma oportunidade de desenvolver alguns sistemas internos para a empresa ond
     align="left" 
     alt="JavaScript" 
     title="JavaScript"
-    width="30px" 
+    width="40px" 
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" 
 />
@@ -53,7 +53,7 @@ Tive uma oportunidade de desenvolver alguns sistemas internos para a empresa ond
     align="left" 
     alt="TypeScript"
     title="TypeScript" 
-    width="30px" 
+    width="40px" 
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" 
 />
@@ -61,7 +61,7 @@ Tive uma oportunidade de desenvolver alguns sistemas internos para a empresa ond
     align="left" 
     alt="Mysql"
     title="Mysql" 
-    width="30px" 
+    width="40px" 
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg" 
 />
@@ -69,15 +69,31 @@ Tive uma oportunidade de desenvolver alguns sistemas internos para a empresa ond
     align="left" 
     alt="REST" 
     title="RESTs"
-    width="30px" 
+    width="40px" 
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/djangorest/djangorest-original-wordmark.svg" 
 />
 <img 
     align="left" 
+    alt="Nginx" 
+    title="Nginx"
+    width="40px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nginx/nginx-original.svg" 
+/>
+<img 
+    align="left" 
+    alt="UWSGI" 
+    title="UWSGI"
+    width="40px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/uwsgi/uwsgi-plain.svg" 
+/>
+<img 
+    align="left" 
     alt="Java" 
     title="Java"
-    width="30px" 
+    width="40px" 
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original-wordmark.svg"
 />
@@ -85,7 +101,7 @@ Tive uma oportunidade de desenvolver alguns sistemas internos para a empresa ond
     align="left" 
     alt="Tailwind" 
     title="Tailwind"
-    width="30px" 
+    width="40px" 
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original.svg" 
 />
@@ -93,7 +109,7 @@ Tive uma oportunidade de desenvolver alguns sistemas internos para a empresa ond
     align="left" 
     alt="AWS" 
     title="AWS"
-    width="30px" 
+    width="40px" 
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/amazonwebservices/amazonwebservices-plain-wordmark.svg" 
 />
@@ -101,7 +117,7 @@ Tive uma oportunidade de desenvolver alguns sistemas internos para a empresa ond
     align="left" 
     alt="Git" 
     title="Git"
-    width="30px" 
+    width="40px" 
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" 
 />
@@ -109,7 +125,7 @@ Tive uma oportunidade de desenvolver alguns sistemas internos para a empresa ond
     align="left" 
     alt="Python" 
     title="Python"
-    width="30px" 
+    width="40px" 
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" 
 />
@@ -117,7 +133,7 @@ Tive uma oportunidade de desenvolver alguns sistemas internos para a empresa ond
     align="left" 
     alt="Django" 
     title="Django"
-    width="30px" 
+    width="40px" 
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/django/django-plain.svg"
 />
@@ -125,9 +141,17 @@ Tive uma oportunidade de desenvolver alguns sistemas internos para a empresa ond
     align="left" 
     alt="PostgreSQL" 
     title="PostgreSQL"
-    width="30px" 
+    width="40px" 
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg"
+/>
+<img 
+    align="left" 
+    alt="ORACLE" 
+    title="ORACLE"
+    width="40px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/oracle/oracle-original.svg"
 />
 <br/>
 <br/>

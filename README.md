@@ -26,7 +26,7 @@ Desde cedo curioso por tecnologia — desmontando jogos e montando servidores �
 
 - 💼 Full-Stack (Python/Django, JavaScript/TypeScript, Java)
 - ☁️ Deploy em **Linux + Nginx**, **uWSGI**, **AWS**
-- 🗺️ Interessa: IoT/Telemetria, integrações e automações
+- 🗺️ Interessa: IoT/ integrações e automações
 
 ---
 

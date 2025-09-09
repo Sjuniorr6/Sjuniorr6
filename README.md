@@ -46,6 +46,8 @@ Desde cedo curioso por tecnologia â€” desmontando jogos e montando servidores â€
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original.svg" title="Tailwind" alt="Tailwind" width="38" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" title="Git" alt="Git" width="38" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/oracle/oracle-original.svg" title="Oracle" alt="Oracle" width="38" />
+  https://cdn.jsdelivr.net/gh/devicons/
+  
 </p>
 
 ---

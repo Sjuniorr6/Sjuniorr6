@@ -61,8 +61,8 @@ Desde cedo curioso por tecnologia — desmontando jogos e montando servidores �
   ↳ <a href="https://www.casscontrol.com.br">Cassinod</a>
 - **Portfólio** — site simples com projetos e contatos.  
   ↳ <a href="https://sjrdev.com.br/">Portifolio</a>
-  - **Fast** — site simples .  
-  ↳ <a href="https://www.fastimpressaodigital.com/">Fast </a>
+- **Fast** — site simples .  
+↳ <a href="https://www.fastimpressaodigital.com/">Fast </a>
 
 > _Mais repositórios logo abaixo — sugestões e PRs são bem-vindos!_
 

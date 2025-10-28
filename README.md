@@ -50,6 +50,7 @@ Desde cedo curioso por tecnologia â€” desmontando jogos e montando servidores â€
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original.svg"lt="Docker" width="38" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/fastapi/fastapi-original.svg"lt="FastAPI" width="38" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/djangorest/djangorest-original.svg" width="38" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/datadog/datadog-original-wordmark.svg"lt="Data Dog" width="38" />
   
   
 </p>
